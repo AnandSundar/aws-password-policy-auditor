@@ -637,16 +637,6 @@ An external auditor requests evidence of password policy compliance. The complia
 
 ---
 
-## About the Author
-
-This project was created by a senior cloud security engineer with over a decade of experience in AWS security, identity and access management, and compliance automation. The author's professional background includes designing and implementing security controls for Fortune 500 companies, leading cloud security transformations, and preparing organizations for successful SOC 2 and ISO 27001 certifications.
-
-The motivation for building this tool came from repeatedly witnessing the same pattern: organizations had adequate security controls in place but struggled to prove compliance to auditors. The manual effort required to document and demonstrate compliance was disproportionate to the complexity of the underlying technical controls. By automating the evidence collection process, this tool helps organizations maintain continuous audit readiness while freeing up security teams to focus on higher-value activities.
-
-The author welcomes contributions from the community, including bug reports, feature requests, documentation improvements, and pull requests. The project follows best practices for open-source development, including comprehensive test coverage, clear documentation, and respectful collaboration.
-
----
-
 ## Footer
 
 <p align="center">
