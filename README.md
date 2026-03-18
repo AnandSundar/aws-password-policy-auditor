@@ -1,32 +1,25 @@
 # AWS Password Policy Auditor
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aws-password-policy-auditor/media/main/banner.png" alt="AWS Password Policy Auditor Banner" width="100%" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/aws-password-policy-auditor/releases">
-    <img src="https://img.shields.io/github/v/release/aws-password-policy-auditor?include_prereleases&style=flat-square" alt="GitHub Release" />
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/python-3.11+-blue?style=flat-square&logo=python" alt="Python 3.11+" />
   </a>
-  <a href="https://github.com/aws-password-policy-auditor/actions">
-    <img src="https://img.shields.io/github/actions/workflow/status/aws-password-policy-auditor/test.yml?branch=main&style=flat-square" alt="Build Status" />
+  <a href="https://github.com/AnandSundar/aws-password-policy-auditor/blob/main/LICENSE">
+    <img src="https://img.shields.io/badge/license-MIT-green?style=flat-square" alt="License: MIT" />
   </a>
-  <a href="https://pypi.org/project/aws-password-policy-auditor/">
-    <img src="https://img.shields.io/pypi/v/aws-password-policy-auditor?style=flat-square" alt="PyPI Version" />
+  <a href="https://github.com/AnandSundar/aws-password-policy-auditor">
+    <img src="https://img.shields.io/github/stars/AnandSundar/aws-password-policy-auditor?style=flat-square" alt="GitHub Stars" />
   </a>
-  <a href="https://pypi.org/project/aws-password-policy-auditor/">
-    <img src="https://img.shields.io/pypi/dm/aws-password-policy-auditor?style=flat-square" alt="PyPI Downloads" />
+  <a href="https://github.com/AnandSundar/aws-password-policy-auditor/fork">
+    <img src="https://img.shields.io/github/forks/AnandSundar/aws-password-policy-auditor?style=flat-square" alt="GitHub Forks" />
   </a>
-  <a href="https://github.com/aws-password-policy-auditor/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/aws-password-policy-auditor?style=flat-square" alt="License" />
-  </a>
-  <a href="https://twitter.com/intent/tweet?text=Check+out+AWS+Password+Policy+Auditor%21+A+GRC+tool+that+audits+AWS+password+policies+against+SOC+2+CC6.2+and+NIST+IA-5+controls.+https%3A%2F%2Fgithub.com%2Faws-password-policy-auditor">
-    <img src="https://img.shields.io/twitter/url/https/github.com/aws-password-policy-auditor?style=flat-square" alt="Tweet" />
+  <a href="https://github.com/AnandSundar/aws-password-policy-auditor/actions">
+    <img src="https://img.shields.io/github/actions/workflow/status/AnandSundar/aws-password-policy-auditor/test.yml?branch=main&style=flat-square" alt="Build Status" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3498DB&center=true&vCenter=true&width=435&lines=python+main.py+audit;Compliant+with+SOC+2+CC6.2;Compliant+with+NIST+IA-5;Evidence+reports+in+JSON%2FCSV%2FXLSX" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3498DB&center=true&vCenter=true&width=435&lines=python+main.py+audit;Compliant+with+SOC+2+CC6.2;Compliant+with+NIST+IA-5;Evidence+reports+in+JSON%2FCSV%2FXLSX" alt="Typing SVG" />
 </p>
 
 ---
