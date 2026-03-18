@@ -22,6 +22,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3498DB&center=true&vCenter=true&width=435&lines=python+main.py+audit;Compliant+with+SOC+2+CC6.2;Compliant+with+NIST+IA-5;Evidence+reports+in+JSON%2FCSV%2FXLSX" alt="Typing SVG" />
 </p>
 
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/edef0623-72a8-4b30-86bd-0ebb52cae7ff" />
+
+
+
 ---
 
 ## Table of Contents
@@ -156,6 +161,14 @@ The following table shows each password policy setting and its corresponding com
 | PasswordReusePrevention | CC6.2 | IA-5(1)(e) | >= 24 passwords remembered | System must remember at least 24 previous passwords to prevent reuse |
 | HardExpiry | CC6.2 | IA-5(1)(d) | False (recommended) | Users should be able to change passwords before expiration |
 | AllowUsersToChangePassword | CC6.2 | IA-5(1)(a) | True (recommended) | Users must have the ability to change their own passwords |
+
+
+<img width="1188" height="749" alt="image" src="https://github.com/user-attachments/assets/10839db5-4092-42fd-8403-17bb5d3005db" />
+
+
+<img width="1679" height="578" alt="image" src="https://github.com/user-attachments/assets/8fbb26ec-af67-4a37-a120-001ecb634b14" />
+
+
 
 ### Control Framework Explanations
 
